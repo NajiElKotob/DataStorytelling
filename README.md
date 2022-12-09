@@ -1,4 +1,5 @@
 # Data Storytelling
+{Awesome Works in Progress)
 
 ## Data literacy
 * [A Data and Analytics Leader's Guide to Data Literacy](https://www.gartner.com/smarterwithgartner/a-data-and-analytics-leaders-guide-to-data-literacy) - gartner.com
