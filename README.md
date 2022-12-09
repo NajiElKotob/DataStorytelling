@@ -1,2 +1,1 @@
-# DataStorytelling
-Data Storytelling
+# Data Storytelling
