@@ -20,3 +20,6 @@
 
 ## Decode graphs
 * [World's Biggest #Data Breaches & Hacks - 10 features in a single viz](https://twitter.com/KotobNaji/status/1410369595509293060) - twitter.com/KotobNaji
+
+## Examples
+* [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
