@@ -7,6 +7,7 @@
 
 ## Perception and Visuals
 * [The Extreme Presentation](https://extremepresentation.com/) - extremepresentation.com
+* The eight common relationships that charts display
 
 ## Gestalt principles
 * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - toptal.com
