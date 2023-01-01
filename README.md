@@ -32,4 +32,5 @@
 -----
 
 ## Books
+* [Storytelling with Data: Let's Practice!](https://www.amazon.com/dp/1119621496/) - Cole Nussbaumer Knaflic
 * [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/) - Edward R. Tufte 
