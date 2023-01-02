@@ -34,3 +34,4 @@
 ## Books
 * [Storytelling with Data: Let's Practice!](https://www.amazon.com/dp/1119621496/) - Cole Nussbaumer Knaflic
 * [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/) - Edward R. Tufte 
+* [DataStory: Explain Data and Inspire Action Through Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984/) - Nancy Duarte
