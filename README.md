@@ -29,6 +29,8 @@
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
 * [Snow Fall - The Avalanche at Tunnel Creek](https://www.nytimes.com/projects/2012/snow-fall/index.html) - nytimes.com
+* [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) - ciechanow.ski
+
 
 -----
 
