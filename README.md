@@ -28,6 +28,7 @@
 
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
+* [How Florence Nightingale Changed Data Visualization Forever](https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/) - The celebrated nurse improved public health through her groundbreaking use of graphic storytelling
 * [Snow Fall - The Avalanche at Tunnel Creek](https://www.nytimes.com/projects/2012/snow-fall/index.html) - nytimes.com
 * [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) - ciechanow.ski
 
