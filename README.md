@@ -37,3 +37,6 @@
 * [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/) - Edward R. Tufte 
 * [DataStory: Explain Data and Inspire Action Through Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984/) - Nancy Duarte
 * [Encyclopedia of Slide Layouts: Inspiration for Visual Communication](https://www.amazon.com/dp/0996001387/)
+
+## Podcast
+* [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
