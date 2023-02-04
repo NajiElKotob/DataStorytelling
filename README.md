@@ -25,6 +25,7 @@
 
 ## Articles
 * [3 Reasons Why Data Is Meaningless Without a Story](https://www.semrush.com/blog/3-reasons-why-data-is-meaningless-without-a-story/) - semrush.com
+* [Use Data And Analytics To Tell A Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story) ⭐ - gartner.com
 
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
