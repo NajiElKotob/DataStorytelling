@@ -33,6 +33,69 @@
 * [Snow Fall - The Avalanche at Tunnel Creek](https://www.nytimes.com/projects/2012/snow-fall/index.html) - nytimes.com
 * [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) - ciechanow.ski
 
+-----
+
+## Storytelling
+Reporting is just the presentation of data , but story telling is more engaging. Effective data storytelling uses language and visualization to help the audience engage and connect with the larger meaning. 
+
+* Bill Shander
+    * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
+    * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
+    * [From Numbers to Narrative (Key Takeaways)](https://chapters.theiia.org/milwaukee/News/ChapterDocuments/Storytelling%20with%20Data%20-%20Key%20Takeaways%2009.19.08.pdf) 
+* Hans Rosling
+    * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) :star: - The Joy of Stats (BBC Four)
+    * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
+* Cole Nussbaumer Knaflic
+    * [SWD Chart Guide](http://www.storytellingwithdata.com/chart-guide)
+    * [Storytelling with Data :tv:](https://www.youtube.com/channel/UCjhGlILWNloXJdR2NTCBMlA/featured)
+* Neil Halloran
+    * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
+* [Stephanie Starling](http://www.stephaniestarling.com/) - freelance researcher and data journalist
+* Erin Ostrowsky (Pragmatic Works)
+    * [Intro to Data Storytelling Vizualization with Power BI](https://www.youtube.com/watch?v=WKWP_-6YmFE)
+* Storytelling with data and Power BI
+    * Ruth Pozuelo Martinez
+        * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
+        * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
+* Lucidworks
+    * [Dark Data](https://lucidworks.com/darkdata/); [Inveractive version](http://interactive.columnfivemedia.com/lucidworks/dark-data/)
+* [Natalia Kiseleva (eolay)](http://eolay.tilda.ws/dataartdtp/en/) - eolay.tilda.ws | Mortality caused by road traffic injury
+*  Doug Ros eal Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
+* David JP Phillips
+    * [The magical science of storytelling (TEDxStockholm)](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
+* Isaac Reyes
+    * [From Numbers to Narrative :tv: ~55min](https://www.youtube.com/watch?v=MZ7cyrMecYY) - Open Data Science Conference Europe 2018 
+* HBR
+    * [How to Tell a Story with Data](https://hbr.org/2013/04/how-to-tell-a-story-with-data)
+* Gartner
+    * [Use Data and Analytics to Tell a Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story/) - Storytelling = visualization + narrative + context
+* Samples
+    * [Nine Charts about Wealth Inequality in America](https://apps.urban.org/features/wealth-inequality-charts/) - urban.org
+    * [Storytelling: Minard vs. Nightingale](https://eagereyes.org/journalism/storytelling-minard-vs-nightingale) - Robert Kosara
+    * [The Shape of Dreams](http://the-shape-of-dreams.com/) - the-shape-of-dreams.com
+    * [The Pudding](https://pudding.cool/) - is a digital publication that explains ideas debated in culture with visual essays.
+    * [Data Is Beautiful (reddit)](https://www.reddit.com/r/dataisbeautiful/)
+    * [Data Art (reddit)](https://www.reddit.com/r/DataArt/)
+    * [One year later: The path to carbon negative – a progress report on our climate ‘moonshot’](https://blogs.microsoft.com/blog/2021/01/28/one-year-later-the-path-to-carbon-negative-a-progress-report-on-our-climate-moonshot/) - Brad Smith (January 2021)
+* Quotes
+    * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
+    * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck
+    * “A story that contrasts the present with the future needs a great deal of trust.” -- Doug Rose
+    * “Numbers Don’t Lie, But Charts Do”
+    * “Stories activate the same parts of our brains that are activated when processing real experiences.” 
+    * “The data means nothing without context, without the story form around it.” -- Bill Shander
+    * KWYs -- Bill Shander
+        * KWYRWTS "Know What You Really Want to Say"
+        * KWYDIS "Know What Your Data is Saying"
+        * KWYANTH "Know What Your Audience Needs to Hear"
+    * “A story is 22 times more memorable than facts alone.” -- Jennifer Aaker
+    * “ASK - Accurate . Story . Knowledge” -- Bill Shander
+    * "Stories make data analysis accessible to a wider audience. They also make analysis more engaging." -- Kubicle.com
+* Hints
+    * A Power BI dashboard is made up of tiles that, together, tell a story. -- Microsoft
+    * Each report page is telling a story. To fully understand the story, you need to know if filters are being applied and what those filters are. -- Microsoft
+    * A visual represents a single table, chart or diagram. A dashboard brings together several relaated charts to tell or story about the selected data. -- CFI
+   
 
 -----
 
