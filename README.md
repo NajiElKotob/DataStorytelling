@@ -14,7 +14,6 @@
 * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - toptal.com
 * [Data-Ink Ratio](https://speedwell.com.au/en/insights/2019/the-manifesto-of-the-data-ink-ratio) - speedwell.com.au
 
-
 ## Cognitive Data
 
 ## Exploratory and Explanatory Analysis
@@ -23,6 +22,11 @@
 ## Decode graphs
 * [World's Biggest #Data Breaches & Hacks - 10 features in a single viz](https://twitter.com/KotobNaji/status/1410369595509293060) - twitter.com/KotobNaji
 
+## The strength of a persuasive and compelling argument
+* Data Pyramid
+* Minto Pyramids
+
+-----
 ## Articles
 * [3 Reasons Why Data Is Meaningless Without a Story](https://www.semrush.com/blog/3-reasons-why-data-is-meaningless-without-a-story/) - semrush.com
 * [Use Data And Analytics To Tell A Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story) ⭐ - gartner.com
