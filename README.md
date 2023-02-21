@@ -36,6 +36,8 @@
 * [How Florence Nightingale Changed Data Visualization Forever](https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/) - The celebrated nurse improved public health through her groundbreaking use of graphic storytelling
 * [Snow Fall - The Avalanche at Tunnel Creek](https://www.nytimes.com/projects/2012/snow-fall/index.html) - nytimes.com
 * [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) - ciechanow.ski
+* [The Underappreciated Man Behind the “Best Graphic Ever Produced”](https://www.nationalgeographic.com/culture/article/charles-minard-cartography-infographics-history) - nationalgeographic.com | He’s known for his acclaimed depiction of Napoleon’s ill-fated invasion of Russia. But Charles Minard was full of innovative visualizations.
+
 
 -----
 
