@@ -13,6 +13,8 @@
 ## Principles
 * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - toptal.com
 * [Data-Ink Ratio](https://speedwell.com.au/en/insights/2019/the-manifesto-of-the-data-ink-ratio) - speedwell.com.au
+* Narrative Arc
+
 
 ## Cognitive Data
 
