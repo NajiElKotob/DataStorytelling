@@ -116,3 +116,4 @@ Reporting is just the presentation of data , but story telling is more engaging.
 
 ## Podcast
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
+* [How to Influence Others with Your Data](https://www.superdatascience.com/podcast/how-to-influence-others-with-your-data) - Ann K. Emery
