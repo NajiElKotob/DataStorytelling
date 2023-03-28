@@ -9,6 +9,7 @@
 * [The Extreme Presentation](https://extremepresentation.com/) - extremepresentation.com
 * The eight common relationships that charts display
 * Choosing the right chart
+* [Data Visualization for Non-Programmers ~1hour 📺](https://www.youtube.com/watch?v=-xS7QJhVbcM) - Harvard i-lab
 
 ## Principles
 * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - toptal.com
