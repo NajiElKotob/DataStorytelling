@@ -8,6 +8,7 @@
 ## Perception and Visuals
 * [The Extreme Presentation](https://extremepresentation.com/) - extremepresentation.com
 * The eight common relationships that charts display
+* [Xenographobia](https://www.linkedin.com/pulse/do-you-suffer-from-xenographobia-bill-shander/)
 * Choosing the right chart
 * [Data Visualization for Non-Programmers ~1hour 📺](https://www.youtube.com/watch?v=-xS7QJhVbcM) - Harvard i-lab
 
