@@ -29,7 +29,7 @@
 
 ## The strength of a persuasive and compelling argument
 * Data Pyramid
-* Minto Pyramids
+* Minto Pyramid - The Minto Pyramid is a tool to give your (written) communication more clarity and efficiency.
 
 -----
 ## Articles
