@@ -37,6 +37,9 @@
 * [Use Data And Analytics To Tell A Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story) ⭐ - gartner.com
 * [Telling Stories with Data: Dos and Don'ts for Beginners and Experts](http://lydiahooper.com/blog/datastoriesdosanddonts) - ydiahooper.com
 
+### Narrative Structures
+* [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/) - blog.reedsy.com
+
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
 * [How Florence Nightingale Changed Data Visualization Forever](https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/) - The celebrated nurse improved public health through her groundbreaking use of graphic storytelling
