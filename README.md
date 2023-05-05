@@ -39,6 +39,7 @@
 
 ### Narrative Structures
 * [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/) - blog.reedsy.com
+* [How a Narrative Arc Structures a Story](https://www.thoughtco.com/what-is-narrative-arc-in-literature-852484) - thoughtco.com
 
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
