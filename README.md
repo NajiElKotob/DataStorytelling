@@ -124,6 +124,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Encyclopedia of Slide Layouts: Inspiration for Visual Communication](https://www.amazon.com/dp/0996001387/)
 
 ## People
+* Bill Shander
 * Cole Nussbaumer Knaflic
 * Edward Tufte
 * Alberto Cairo
