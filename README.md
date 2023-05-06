@@ -31,6 +31,8 @@
 * Data Pyramid
 * Minto Pyramid - The Minto Pyramid is a tool to give your (written) communication more clarity and efficiency.
 
+## Colors
+* [The Complete Guide to Power BI Themes + 12 Examples](https://www.numerro.io/guides/power-bi-themes) - numerro.io
 -----
 ## Articles
 * [3 Reasons Why Data Is Meaningless Without a Story](https://www.semrush.com/blog/3-reasons-why-data-is-meaningless-without-a-story/) - semrush.com
