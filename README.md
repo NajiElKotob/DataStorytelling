@@ -125,6 +125,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 
 ## People
 * Cole Nussbaumer Knaflic
+* Edward Tufte
 
 ## Podcast
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
