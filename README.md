@@ -126,7 +126,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 ## People
 * [Bill Shander](https://billshander.com/) - billshander.com
 * [Cole Nussbaumer Knaflic](https://www.storytellingwithdata.com) - storytellingwithdata.com
-* Edward Tufte
+* [Edward Tufte](https://www.edwardtufte.com/tufte/) - edwardtufte.com
 * [Alberto Cairo](http//www.thefunctionalart.com) - thefunctionalart.com
 * [Lydia Hooper ](https://lydiahooper.com/) - lydiahooper.com
 
