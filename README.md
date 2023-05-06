@@ -123,6 +123,9 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [DataStory: Explain Data and Inspire Action Through Story](https://www.amazon.com/DataStory-Explain-Inspire-Action-Through/dp/1940858984/) - Nancy Duarte
 * [Encyclopedia of Slide Layouts: Inspiration for Visual Communication](https://www.amazon.com/dp/0996001387/)
 
+## People
+* Cole Nussbaumer Knaflic
+
 ## Podcast
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
 * [How to Influence Others with Your Data](https://www.superdatascience.com/podcast/how-to-influence-others-with-your-data) - Ann K. Emery
