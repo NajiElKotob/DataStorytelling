@@ -43,6 +43,10 @@
 * [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/) - blog.reedsy.com
 * [How a Narrative Arc Structures a Story](https://www.thoughtco.com/what-is-narrative-arc-in-literature-852484) - thoughtco.com
 
+### Videos 📺
+* [Turning Bad Charts into Compelling Data Stories](https://www.youtube.com/watch?v=edAf1jx1wh8) - Dominic Bohan | TEDxYouth@Singapore
+
+
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
 * [How Florence Nightingale Changed Data Visualization Forever](https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/) - The celebrated nurse improved public health through her groundbreaking use of graphic storytelling
