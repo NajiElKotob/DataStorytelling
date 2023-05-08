@@ -45,7 +45,7 @@
 
 ### Videos 📺
 * [Turning Bad Charts into Compelling Data Stories](https://www.youtube.com/watch?v=edAf1jx1wh8) - Dominic Bohan | TEDxYouth@Singapore
-
+* [Storytelling Arc – 9 steps to tell a great story](https://www.youtube.com/watch?v=u4dJgUkaehU) - Laura Randazzo
 
 ## Examples
 * [William Playfair Founds Statistical Graphics, and Invents the Line Chart and Bar Chart](https://www.historyofinformation.com/detail.php?id=2527) - historyofinformation.com
