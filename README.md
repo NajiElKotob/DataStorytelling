@@ -38,6 +38,8 @@
 * [3 Reasons Why Data Is Meaningless Without a Story](https://www.semrush.com/blog/3-reasons-why-data-is-meaningless-without-a-story/) - semrush.com
 * [Use Data And Analytics To Tell A Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story) ⭐ - gartner.com
 * [Telling Stories with Data: Dos and Don'ts for Beginners and Experts](http://lydiahooper.com/blog/datastoriesdosanddonts) - ydiahooper.com
+* [What is data storytelling?](https://www.sap.com/products/technology-platform/cloud-analytics/what-is-data-storytelling.html) ⭐ - sap.com
+
 
 ### Narrative Structures
 * [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/) - blog.reedsy.com
