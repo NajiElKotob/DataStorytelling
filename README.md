@@ -88,6 +88,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 *  Doug Ros eal Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
 * David JP Phillips
     * [The magical science of storytelling (TEDxStockholm)](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
+* Paul Smith
+   * Pause and let the audience react.
 * Isaac Reyes
     * [From Numbers to Narrative :tv: ~55min](https://www.youtube.com/watch?v=MZ7cyrMecYY) - Open Data Science Conference Europe 2018 
 * HBR
