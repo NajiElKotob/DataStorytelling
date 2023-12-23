@@ -40,6 +40,8 @@
 * [Telling Stories with Data: Dos and Don'ts for Beginners and Experts](http://lydiahooper.com/blog/datastoriesdosanddonts) - ydiahooper.com
 * [What is data storytelling?](https://www.sap.com/products/technology-platform/cloud-analytics/what-is-data-storytelling.html) ⭐ - sap.com
 * [Learn About Narrative Arcs](https://www.masterclass.com/articles/what-are-the-elements-of-a-narrative-arc-and-how-do-you-create-one-in-writing) - masterclass.com |  Definition, Examples, and How to Create a Narrative Arc in Your Writing.
+### Questions
+* [The Art of Asking Great Questions](https://hbr.org/2022/05/the-art-of-asking-great-questions) - hbr.org
 
 ### Narrative Structures
 * [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/) - blog.reedsy.com
