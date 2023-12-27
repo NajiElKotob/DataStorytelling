@@ -97,6 +97,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [From Numbers to Narrative :tv: ~55min](https://www.youtube.com/watch?v=MZ7cyrMecYY) - Open Data Science Conference Europe 2018 
 * HBR
     * [How to Tell a Story with Data](https://hbr.org/2013/04/how-to-tell-a-story-with-data)
+    * [Setup, Conflict, Resolution 📺](https://www.youtube.com/watch?v=r5_34YnCmMY) - Telling Stories with Data in 3 Steps (Quick Study)
 * Gartner
     * [Use Data and Analytics to Tell a Story](https://www.gartner.com/smarterwithgartner/use-data-and-analytics-to-tell-a-story/) - Storytelling = visualization + narrative + context
 * Samples
