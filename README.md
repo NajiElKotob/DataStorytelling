@@ -4,7 +4,6 @@
 ## Data literacy
 * [A Data and Analytics Leader's Guide to Data Literacy](https://www.gartner.com/smarterwithgartner/a-data-and-analytics-leaders-guide-to-data-literacy) - gartner.com
 
-
 ## Perception and Visuals
 * [The Extreme Presentation](https://extremepresentation.com/) - extremepresentation.com
 * The eight common relationships that charts display
@@ -33,6 +32,7 @@
 
 ## Colors
 * [The Complete Guide to Power BI Themes + 12 Examples](https://www.numerro.io/guides/power-bi-themes) - numerro.io
+  
 -----
 ## Articles
 * [3 Reasons Why Data Is Meaningless Without a Story](https://www.semrush.com/blog/3-reasons-why-data-is-meaningless-without-a-story/) - semrush.com
@@ -136,6 +136,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 -----
 ## Power BI
 * [Chart sharing from organizational apps. Also supported in PowerPoint integration](https://powerbi.microsoft.com/en-us/blog/chart-sharing-from-organizational-apps-also-supported-in-powerpoint-integration/)
+* [Improved image mode in Power BI add-in for PowerPoint](https://powerbi.microsoft.com/en-us/blog/improved-image-mode-in-power-bi-add-in-for-powerpoint/)
 
 ## Books
 * [Storytelling with Data: Let's Practice!](https://www.amazon.com/dp/1119621496/) - Cole Nussbaumer Knaflic
