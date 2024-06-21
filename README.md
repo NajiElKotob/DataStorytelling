@@ -48,6 +48,7 @@
 * [How a Narrative Arc Structures a Story](https://www.thoughtco.com/what-is-narrative-arc-in-literature-852484) - thoughtco.com
 
 ### Videos 📺
+* [The art of exploring and explaining data](https://www.youtube.com/watch?v=IfKlOC5HSHI) 🌟 - storytelling with data
 * [How to turn data into stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ) - Storytelling with Data (SWD)
 * [Turning Bad Charts into Compelling Data Stories](https://www.youtube.com/watch?v=edAf1jx1wh8) - Dominic Bohan | TEDxYouth@Singapore
 * [Storytelling Arc – 9 steps to tell a great story](https://www.youtube.com/watch?v=u4dJgUkaehU) - Laura Randazzo
