@@ -139,6 +139,13 @@ Reporting is just the presentation of data , but story telling is more engaging.
    
 
 -----
+
+## Wow
+* [Diaper-beer syndrome](https://www.forbes.com/forbes/1998/0406/6107128a.html) - forbes.com
+
+
+
+-----
 ## Power BI
 * [Chart sharing from organizational apps. Also supported in PowerPoint integration](https://powerbi.microsoft.com/en-us/blog/chart-sharing-from-organizational-apps-also-supported-in-powerpoint-integration/)
 * [Improved image mode in Power BI add-in for PowerPoint](https://powerbi.microsoft.com/en-us/blog/improved-image-mode-in-power-bi-add-in-for-powerpoint/)
