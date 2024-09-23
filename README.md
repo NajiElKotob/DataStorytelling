@@ -142,7 +142,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 
 ## Wow
 * [Diaper-beer syndrome](https://www.forbes.com/forbes/1998/0406/6107128a.html) - forbes.com
-
+* [Why Ice Cream Is Linked to Shark Attacks](https://www.kdnuggets.com/2019/01/dr-data-ice-cream-linked-shark-attacks.html) - kdnuggets.com
 
 
 -----
