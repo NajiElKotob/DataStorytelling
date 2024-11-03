@@ -42,6 +42,7 @@
 * [Learn About Narrative Arcs](https://www.masterclass.com/articles/what-are-the-elements-of-a-narrative-arc-and-how-do-you-create-one-in-writing) - masterclass.com |  Definition, Examples, and How to Create a Narrative Arc in Your Writing.
 * [How to tell stories that delight your audience and make an impact for your brand](https://news.microsoft.com/handbook/) - microsoft.com
 * [What is data storytelling?](https://powerbi.microsoft.com/en-us/data-storytelling/) - powerbi.microsoft.com | Bring your data to life
+* [Life’s Ups and Downs](https://improvementslab.com/2015/10/21/lifes-ups-and-downs/) - improvementslab.com | Tony Webster
     
 ### Questions
 * [The Art of Asking Great Questions](https://hbr.org/2022/05/the-art-of-asking-great-questions) - hbr.org
