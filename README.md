@@ -159,6 +159,9 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Alberto Cairo](http//www.thefunctionalart.com) - thefunctionalart.com
 * [Lydia Hooper ](https://lydiahooper.com/) - lydiahooper.com
 
+## TED
+* [Storytelling](https://www.ted.com/search?q=storytelling) - All results
+
 ## Podcast
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
 * [How to Influence Others with Your Data](https://www.superdatascience.com/podcast/how-to-influence-others-with-your-data) - Ann K. Emery
