@@ -40,7 +40,7 @@
 * [Telling Stories with Data: Dos and Don'ts for Beginners and Experts](http://lydiahooper.com/blog/datastoriesdosanddonts) - ydiahooper.com
 * [What is data storytelling?](https://www.sap.com/products/technology-platform/cloud-analytics/what-is-data-storytelling.html) ⭐ - sap.com
 * [Learn About Narrative Arcs](https://www.masterclass.com/articles/what-are-the-elements-of-a-narrative-arc-and-how-do-you-create-one-in-writing) - masterclass.com |  Definition, Examples, and How to Create a Narrative Arc in Your Writing.
-* [Data Storytelling: How to Effectively Tell a Story with Data](https://online.hbs.edu/blog/post/data-storytelling) - hbs.edu | Harvard Business School Online's Business Insights Blog
+* [Data Storytelling: How to Effectively Tell a Story with Data](https://online.hbs.edu/blog/post/data-storytelling) ⭐ - hbs.edu | Harvard Business School Online's Business Insights Blog
 * [How to tell stories that delight your audience and make an impact for your brand](https://news.microsoft.com/handbook/) - microsoft.com
 * [What is data storytelling?](https://powerbi.microsoft.com/en-us/data-storytelling/) - powerbi.microsoft.com | Bring your data to life
 * [Life’s Ups and Downs](https://improvementslab.com/2015/10/21/lifes-ups-and-downs/) - improvementslab.com | Tony Webster
