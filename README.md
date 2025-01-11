@@ -89,8 +89,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Stephanie Starling](http://www.stephaniestarling.com/) - freelance researcher and data journalist
 * Erin Ostrowsky (Pragmatic Works)
     * [Intro to Data Storytelling Vizualization with Power BI](https://www.youtube.com/watch?v=WKWP_-6YmFE)
-* Storytelling with data and Power BI
-    * Ruth Pozuelo Martinez
+* Ruth Pozuelo Martinez
+    * Storytelling with data and Power BI
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 * Lucidworks
