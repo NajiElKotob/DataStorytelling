@@ -153,10 +153,11 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Encyclopedia of Slide Layouts: Inspiration for Visual Communication](https://www.amazon.com/dp/0996001387/)
 
 ## People
+* [Alberto Cairo](http//www.thefunctionalart.com) - thefunctionalart.com
 * [Bill Shander](https://billshander.com/) - billshander.com
 * [Cole Nussbaumer Knaflic](https://www.storytellingwithdata.com) - storytellingwithdata.com
+* David McCandless
 * [Edward Tufte](https://www.edwardtufte.com/tufte/) - edwardtufte.com
-* [Alberto Cairo](http//www.thefunctionalart.com) - thefunctionalart.com
 * [Lydia Hooper ](https://lydiahooper.com/) - lydiahooper.com
 
 ## TED
