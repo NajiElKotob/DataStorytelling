@@ -67,6 +67,7 @@
 * [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) - ciechanow.ski
 * [The Underappreciated Man Behind the “Best Graphic Ever Produced”](https://www.nationalgeographic.com/culture/article/charles-minard-cartography-infographics-history) - nationalgeographic.com | He’s known for his acclaimed depiction of Napoleon’s ill-fated invasion of Russia. But Charles Minard was full of innovative visualizations.
 * [20 Best Data Storytelling Examples](https://www.juiceanalytics.com/writing/20-best-data-storytelling-examples) - juiceanalytics.com
+* [Chit Chart](https://chitchart.com/) - chitchart.com | Let's talk about facts
 
 -----
 
