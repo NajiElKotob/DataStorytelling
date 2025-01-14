@@ -58,6 +58,7 @@
 * [Turning Bad Charts into Compelling Data Stories](https://www.youtube.com/watch?v=edAf1jx1wh8) - Dominic Bohan | TEDxYouth@Singapore
 * [Storytelling Arc – 9 steps to tell a great story](https://www.youtube.com/watch?v=u4dJgUkaehU) - Laura Randazzo
 * [Telling Stories with Data - Method 1 (The "How we got here" method)](https://www.youtube.com/watch?v=5VCDAGip6Yg) - Paul Smith
+* [Data Storytelling 101 with ‪@storytellingwithdata‬ founder Cole Nussbaumer Knaflic](https://www.youtube.com/watch?v=oSOaYqoAC7s) - Free the Data Academy
 
 ## Examples
 * [10 Data Storytelling Examples (And How They’re Made)](https://www.vev.design/blog/data-storytelling-examples/) - vev.design
