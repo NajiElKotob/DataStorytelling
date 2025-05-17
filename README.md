@@ -150,6 +150,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Chart sharing from organizational apps. Also supported in PowerPoint integration](https://powerbi.microsoft.com/en-us/blog/chart-sharing-from-organizational-apps-also-supported-in-powerpoint-integration/)
 * [Improved image mode in Power BI add-in for PowerPoint](https://powerbi.microsoft.com/en-us/blog/improved-image-mode-in-power-bi-add-in-for-powerpoint/)
 * [How to Make Your PowerPoint Presentations 10X More Powerful? 📺 ~5min](https://www.youtube.com/watch?v=AvwVVA18VPg) - Guy in a Cube
+* [PowerPoint + Power BI Annotations: Next-Level Storytelling 📺 ~4min](https://www.youtube.com/watch?v=QH2sQdm-ySw) - Guy in a Cube
+  - [Create data point annotations 📄](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-annotate)
 
 ## Books
 * [Storytelling with Data: Let's Practice!](https://www.amazon.com/dp/1119621496/) - Cole Nussbaumer Knaflic
