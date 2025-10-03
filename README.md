@@ -64,6 +64,7 @@
 * [Telling Stories with Data - Method 1 (The "How we got here" method)](https://www.youtube.com/watch?v=5VCDAGip6Yg) - Paul Smith
 * [Data Storytelling 101 with ‪@storytellingwithdata‬ founder Cole Nussbaumer Knaflic](https://www.youtube.com/watch?v=oSOaYqoAC7s) 🌟 - Free the Data Academy
 * [Give me 9min, and I'll improve your storytelling skills by 176%](https://www.youtube.com/watch?v=hNuAv-42jzY) - Philipp Humm
+* [How to Become A Master Storyteller](https://www.youtube.com/watch?v=5HfeNDleTS4) - Vinh Giang
 
 ## Examples
 * [10 Data Storytelling Examples (And How They’re Made)](https://www.vev.design/blog/data-storytelling-examples/) - vev.design
