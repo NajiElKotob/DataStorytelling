@@ -57,6 +57,7 @@
 * [How a Narrative Arc Structures a Story](https://www.thoughtco.com/what-is-narrative-arc-in-literature-852484) - thoughtco.com
 
 ### Videos 📺
+* [The Psychology of Storytelling That Will Change Your Life 📺 ~14 min](https://www.youtube.com/watch?v=oCnxnaVg0bY) - Joanna Wiebe
 * [How to use AI for data storytelling (better graphs, slides, and presentations) 📺 ~1 hour](https://www.youtube.com/watch?v=EsMmixXw5J0) - storytelling with data
 * [The art of exploring and explaining data](https://www.youtube.com/watch?v=IfKlOC5HSHI) 🌟 - storytelling with data
 * [How to turn data into stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ) - Storytelling with Data (SWD)
